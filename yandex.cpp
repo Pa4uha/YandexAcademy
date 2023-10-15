@@ -8,7 +8,7 @@ enum class Color {
 // Злдесь неправильный параметр, надо заменить 
 
 struct Point {
-	double x = 1.0;
+	double x = 13.0; // изменено в новой ветке
 	double y = 0.0;
 	double z = 0.0;
 	Color color;
